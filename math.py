@@ -1,4 +1,4 @@
-num_1 = 10
+num_1 = 11
 num_2 = 6
 
 sum = num_1 + num_2
