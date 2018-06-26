@@ -1,5 +1,5 @@
 num_1 = 11
-num_2 = 6
+num_2 = 8
 
 sum = num_1 + num_2
 
